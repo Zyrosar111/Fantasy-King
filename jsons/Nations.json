@@ -38,7 +38,7 @@
 	{
 		"name": "Pups",
 		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"adjective": ["pups"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
@@ -63,7 +63,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [12,16,12],
 		"innerColor": [255,200,200],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
